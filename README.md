@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cf0,100:00dfd8&height=180&section=header&text=Bienvenido%20a%20mi%20perfil!&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aprendiendo%20%7C%20Porgramando%20%7C%20Creciendo&descAlignY=58&descSize=16" width="100%" alt="Banner de bienvenida"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cf0,100:00dfd8&height=180&section=header&text=Bienvenido%20a%20mi%20perfil!&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aprendiendo%20%7C%20Programando%20%7C%20Creciendo&descAlignY=58&descSize=16" width="100%" alt="Banner de bienvenida"/>
 
 </div>
 
