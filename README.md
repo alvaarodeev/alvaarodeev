@@ -1,4 +1,5 @@
 ## Hola soy alvaro 
 # Estudiante de 1 DAW en ies playamar
 ### 🛠️ Lenguajes más usados
-* <img src="https://jsdelivr.net" width="20" height="20" alt="Java"/> **Java**
+* **Java** <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/9d6b52fa-37bf-4166-9392-c22f1a258f9f" />
+
