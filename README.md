@@ -59,50 +59,8 @@ Actualmente estoy aprendiendo programación y desarrollando mis habilidades para
 
 </div>
 
----
-
-## 🎯 Mis objetivos
-
-- [ ] 📚 Seguir aprendiendo programación.
-- [ ] 🌐 Mejorar mis habilidades de desarrollo web.
-- [ ] ☕ Crear proyectos con Java.
-- [ ] 💻 Publicar más proyectos en GitHub.
-- [ ] 🚀 Convertirme en un gran desarrollador.
-
----
-
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados" width="40%"/>
-
-</div>
-
----
-
-## 👀 Visitas al perfil
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS%20AL%20PERFIL&color=00dfd8&style=for-the-badge" alt="Contador de visitas al perfil"/>
-
-<br><br>
-
 **¡Gracias por visitar mi perfil!** 💙
 
 *Cada línea de código es una oportunidad para aprender algo nuevo.*
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 Aprendiendo hoy, creando el futuro.
-
-⭐ Si te interesa alguno de mis proyectos, ¡no dudes en echarle un vistazo!
 
 </div>
